@@ -1,6 +1,6 @@
-function App () {
+const App = (): JSX.Element => {
   return (
-    <div>todo mvc</div>
+    <h1>todo mvc</h1>
   )
 }
 
